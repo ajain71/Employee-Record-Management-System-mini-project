@@ -227,3 +227,5 @@ void ticket3(int choice,char name[10],int id2,int price)
         printf("\t============================================================\n");
         return;
 }
+
+
